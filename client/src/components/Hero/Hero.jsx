@@ -19,8 +19,8 @@ const Hero = () => {
             }}
             >
               Discover <br />
-              Most Suitable
-              <br /> Property
+              spaces,
+              <br /> create memories
             </motion.h1>
           </div>
           <div className="flexColStart secondaryText flexhero-des">
