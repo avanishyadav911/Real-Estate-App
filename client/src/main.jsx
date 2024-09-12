@@ -10,9 +10,9 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-r7wg5acvh1qf5ad6.us.auth0.com"
      clientId="g56aP7Ghc7Zs78ocylIwGPlnctTr3D2L"
      authorizationParams={{
-      redirect_uri: "http://localhost:5173/"
+      redirect_uri: "https://real-state-app-navy.vercel.app/"
      }}
-     audience="http://localhost:3000"
+     audience="https://real-state-app-navy.vercel.app/"
      scope="openid profile email"
     >
       <App />
